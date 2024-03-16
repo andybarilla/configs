@@ -13,3 +13,4 @@ export FLYCTL_INSTALL="/home/andy/.fly"
 export PATH="$FLYCTL_INSTALL/bin:$PATH"
 
 export PATH="$HOME/go/bin:$PATH"
+setxkbmap -option ctrl:nocaps
