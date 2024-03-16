@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-terminal" version="1.0">
+  <property name="background-mode" type="string" value="TERMINAL_BACKGROUND_TRANSPARENT"/>
+  <property name="background-darkness" type="double" value="0.84999999999999998"/>
+  <property name="misc-always-show-tabs" type="bool" value="false"/>
+  <property name="misc-bell" type="bool" value="false"/>
+  <property name="misc-borders-default" type="bool" value="true"/>
+  <property name="misc-cursor-blinks" type="bool" value="false"/>
+  <property name="misc-cursor-shape" type="string" value="TERMINAL_CURSOR_SHAPE_BLOCK"/>
+  <property name="misc-default-geometry" type="string" value="80x24"/>
+  <property name="misc-inherit-geometry" type="bool" value="false"/>
+  <property name="misc-menubar-default" type="bool" value="true"/>
+  <property name="misc-mouse-autohide" type="bool" value="false"/>
+  <property name="misc-toolbar-default" type="bool" value="false"/>
+  <property name="misc-confirm-close" type="bool" value="true"/>
+  <property name="misc-cycle-tabs" type="bool" value="true"/>
+  <property name="misc-tab-close-buttons" type="bool" value="true"/>
+  <property name="misc-tab-close-middle-click" type="bool" value="true"/>
+  <property name="misc-tab-position" type="string" value="GTK_POS_TOP"/>
+  <property name="misc-highlight-urls" type="bool" value="true"/>
+  <property name="scrolling-lines" type="uint" value="999999"/>
+  <property name="scrolling-on-output" type="bool" value="false"/>
+  <property name="font-use-system" type="bool" value="false"/>
+  <property name="color-use-theme" type="bool" value="false"/>
+  <property name="color-background-vary" type="bool" value="false"/>
+  <property name="color-bold-is-bright" type="bool" value="false"/>
+  <property name="color-palette" type="string" value="rgb(26,27,38);rgb(247,118,142);rgb(158,206,106);rgb(224,175,104);rgb(122,162,247);rgb(154,126,204);rgb(74,186,175);rgb(172,176,208);rgb(78,81,115);rgb(224,108,117);rgb(152,195,121);rgb(209,154,102);rgb(97,175,239);rgb(198,120,221);rgb(86,182,194);rgb(171,178,191)"/>
+  <property name="color-cursor-use-default" type="bool" value="true"/>
+  <property name="color-selection-use-default" type="bool" value="true"/>
+  <property name="color-bold-use-default" type="bool" value="true"/>
+</channel>
