@@ -29,4 +29,5 @@
   <property name="color-cursor-use-default" type="bool" value="true"/>
   <property name="color-selection-use-default" type="bool" value="true"/>
   <property name="color-bold-use-default" type="bool" value="true"/>
+  <property name="font-name" type="string" value="Monospace 10"/>
 </channel>
